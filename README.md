@@ -6,6 +6,7 @@ DSA in C++ after 1st september 25
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kaus-code/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Kaus-code/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kaus-code/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -53,4 +54,12 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Kaus-code/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
