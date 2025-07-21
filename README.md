@@ -7,6 +7,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kaus-code/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Kaus-code/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kaus-code/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -14,6 +15,7 @@ DSA in C++ after 1st september 25
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kaus-code/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Kaus-code/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Heap (Priority Queue)
@@ -58,8 +60,14 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
