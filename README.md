@@ -16,6 +16,7 @@ DSA in C++ after 1st september 25
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Kaus-code/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Kaus-code/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kaus-code/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Kaus-code/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,4 +99,16 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Kaus-code/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Kaus-code/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Enumeration
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Kaus-code/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Prefix Sum
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Kaus-code/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
