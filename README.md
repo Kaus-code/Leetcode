@@ -25,6 +25,7 @@ DSA in C++ after 1st september 25
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kaus-code/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Kaus-code/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/Kaus-code/Leetcode/tree/master/0198-house-robber) |
@@ -40,6 +41,7 @@ DSA in C++ after 1st september 25
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kaus-code/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kaus-code/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kaus-code/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kaus-code/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -62,6 +64,7 @@ DSA in C++ after 1st september 25
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kaus-code/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kaus-code/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Kaus-code/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Hash Table
