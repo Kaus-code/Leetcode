@@ -13,6 +13,7 @@ DSA in C++ after 1st september 25
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaus-code/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1813-maximum-erasure-value](https://github.com/Kaus-code/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Kaus-code/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kaus-code/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kaus-code/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Kaus-code/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Kaus-code/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -97,6 +98,7 @@ DSA in C++ after 1st september 25
 ## Bit Manipulation
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kaus-code/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Kaus-code/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Tree
 |  |
@@ -109,6 +111,7 @@ DSA in C++ after 1st september 25
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kaus-code/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Kaus-code/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
 |  |
@@ -118,4 +121,8 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaus-code/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kaus-code/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
