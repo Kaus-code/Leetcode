@@ -39,6 +39,7 @@ DSA in C++ after 1st september 25
 | [0198-house-robber](https://github.com/Kaus-code/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kaus-code/Leetcode/tree/master/0213-house-robber-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kaus-code/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1250-longest-common-subsequence](https://github.com/Kaus-code/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kaus-code/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaus-code/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kaus-code/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -52,6 +53,7 @@ DSA in C++ after 1st september 25
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kaus-code/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Kaus-code/Leetcode/tree/master/0022-generate-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/Kaus-code/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kaus-code/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kaus-code/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kaus-code/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
