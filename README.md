@@ -134,6 +134,7 @@ DSA in C++ after 1st september 25
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Kaus-code/Leetcode/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kaus-code/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kaus-code/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Kaus-code/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -172,6 +173,7 @@ DSA in C++ after 1st september 25
 | ------- |
 | [0062-unique-paths](https://github.com/Kaus-code/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kaus-code/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Kaus-code/Leetcode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Kaus-code/Leetcode/tree/master/0826-soup-servings) |
 ## Memoization
 |  |
@@ -211,4 +213,8 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Kaus-code/Leetcode/tree/master/0826-soup-servings) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kaus-code/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
