@@ -12,6 +12,7 @@ DSA in C++ after 1st september 25
 | [0118-pascals-triangle](https://github.com/Kaus-code/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Kaus-code/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kaus-code/Leetcode/tree/master/0213-house-robber-ii) |
+| [0312-burst-balloons](https://github.com/Kaus-code/Leetcode/tree/master/0312-burst-balloons) |
 | [0695-max-area-of-island](https://github.com/Kaus-code/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Kaus-code/Leetcode/tree/master/0739-daily-temperatures) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kaus-code/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -45,6 +46,7 @@ DSA in C++ after 1st september 25
 | [0118-pascals-triangle](https://github.com/Kaus-code/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Kaus-code/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kaus-code/Leetcode/tree/master/0213-house-robber-ii) |
+| [0312-burst-balloons](https://github.com/Kaus-code/Leetcode/tree/master/0312-burst-balloons) |
 | [0826-soup-servings](https://github.com/Kaus-code/Leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kaus-code/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1250-longest-common-subsequence](https://github.com/Kaus-code/Leetcode/tree/master/1250-longest-common-subsequence) |
