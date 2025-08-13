@@ -186,6 +186,7 @@ DSA in C++ after 1st september 25
 | [0062-unique-paths](https://github.com/Kaus-code/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kaus-code/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Kaus-code/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Kaus-code/Leetcode/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/Kaus-code/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Kaus-code/Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Memoization
@@ -230,6 +231,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kaus-code/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Kaus-code/Leetcode/tree/master/0326-power-of-three) |
 ## Counting
 |  |
 | ------- |
