@@ -5,6 +5,7 @@ public:
       [1,1,2,2],
       [0,1,2,3]
     */
+
     /*
       [1,0,1],
       [1,1,0],
@@ -27,9 +28,7 @@ public:
         int sum=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                
                 sum+=dp[i][j];
-                        
             }
         }
         return  sum;
