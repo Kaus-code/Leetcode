@@ -38,6 +38,7 @@ DSA in C++ after 1st september 25
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Kaus-code/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Kaus-code/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Kaus-code/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Kaus-code/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kaus-code/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Kaus-code/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kaus-code/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -65,6 +66,7 @@ DSA in C++ after 1st september 25
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Kaus-code/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Kaus-code/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Kaus-code/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Kaus-code/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -142,6 +144,7 @@ DSA in C++ after 1st september 25
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Kaus-code/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Kaus-code/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Kaus-code/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Kaus-code/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sliding Window
 |  |
 | ------- |
@@ -216,6 +219,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kaus-code/Leetcode/tree/master/0070-climbing-stairs) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Kaus-code/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Search
 |  |
 | ------- |
