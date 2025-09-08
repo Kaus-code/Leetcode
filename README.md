@@ -221,6 +221,7 @@ DSA in C++ after 1st september 25
 | [0342-power-of-four](https://github.com/Kaus-code/Leetcode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Kaus-code/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Kaus-code/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Kaus-code/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Kaus-code/Leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Kaus-code/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kaus-code/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
