@@ -85,6 +85,7 @@ DSA in C++ after 1st september 25
 | [0132-palindrome-partitioning-ii](https://github.com/Kaus-code/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0514-freedom-trail](https://github.com/Kaus-code/Leetcode/tree/master/0514-freedom-trail) |
 | [1250-longest-common-subsequence](https://github.com/Kaus-code/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Kaus-code/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kaus-code/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kaus-code/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kaus-code/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -121,6 +122,7 @@ DSA in C++ after 1st september 25
 | [0141-linked-list-cycle](https://github.com/Kaus-code/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0900-reordered-power-of-2](https://github.com/Kaus-code/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Kaus-code/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Kaus-code/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/Kaus-code/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Kaus-code/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kaus-code/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
