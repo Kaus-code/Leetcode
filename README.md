@@ -36,6 +36,7 @@ DSA in C++ after 1st september 25
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Kaus-code/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Kaus-code/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Kaus-code/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Kaus-code/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kaus-code/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Kaus-code/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Kaus-code/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -129,6 +130,7 @@ DSA in C++ after 1st september 25
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Kaus-code/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/Kaus-code/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Kaus-code/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Kaus-code/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/Kaus-code/Leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kaus-code/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Kaus-code/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -298,6 +300,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Kaus-code/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Kaus-code/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kaus-code/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Geometry
 |  |
