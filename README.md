@@ -15,6 +15,7 @@ DSA in C++ after 1st september 25
 | [0213-house-robber-ii](https://github.com/Kaus-code/Leetcode/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/Kaus-code/Leetcode/tree/master/0312-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/Kaus-code/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/Kaus-code/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0695-max-area-of-island](https://github.com/Kaus-code/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Kaus-code/Leetcode/tree/master/0739-daily-temperatures) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kaus-code/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -124,6 +125,7 @@ DSA in C++ after 1st september 25
 | [0005-longest-palindromic-substring](https://github.com/Kaus-code/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kaus-code/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Kaus-code/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0611-valid-triangle-number](https://github.com/Kaus-code/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +185,7 @@ DSA in C++ after 1st september 25
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Kaus-code/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/Kaus-code/Leetcode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kaus-code/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kaus-code/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -225,6 +228,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Kaus-code/Leetcode/tree/master/0047-permutations-ii) |
+| [0611-valid-triangle-number](https://github.com/Kaus-code/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Kaus-code/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaus-code/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kaus-code/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -260,6 +264,7 @@ DSA in C++ after 1st september 25
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Kaus-code/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Kaus-code/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Kaus-code/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kaus-code/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
