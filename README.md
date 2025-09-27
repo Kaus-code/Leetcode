@@ -6,6 +6,7 @@ DSA in C++ after 1st september 25
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kaus-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Kaus-code/Leetcode/tree/master/0047-permutations-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -56,6 +57,7 @@ DSA in C++ after 1st september 25
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kaus-code/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Kaus-code/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Kaus-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Kaus-code/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kaus-code/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -125,6 +127,7 @@ DSA in C++ after 1st september 25
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kaus-code/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kaus-code/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Kaus-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Kaus-code/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0611-valid-triangle-number](https://github.com/Kaus-code/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Hash Table
@@ -149,6 +152,7 @@ DSA in C++ after 1st september 25
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kaus-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Kaus-code/Leetcode/tree/master/0739-daily-temperatures) |
@@ -158,6 +162,7 @@ DSA in C++ after 1st september 25
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kaus-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Kaus-code/Leetcode/tree/master/0739-daily-temperatures) |
