@@ -1,27 +1,28 @@
 class Solution {
 public:
-int M=1e9+7;
     int peopleAwareOfSecret(int n, int delay, int forget) {
-        vector<long long> dp(n+1);
-        dp[1]=1;
-        for(int day=2;day<=n;day++)
-        {
-            long long count=0;
-            for(int prev=day-forget+1;prev<=day-delay;prev++)
-            {
-                if(prev>0)
-                count=(count+dp[prev])%M;
+        deque<pair<int, int>> know, share;
+        know.emplace_back(1, 1);
+        int know_cnt = 1, share_cnt = 0;
+        for (int i = 2; i <= n; ++i) {
+            if (!know.empty() && know[0].first == i - delay) {
+                know_cnt = (know_cnt - know[0].second + mod) % mod;
+                share_cnt = (share_cnt + know[0].second) % mod;
+                share.push_back(know[0]);
+                know.pop_front();
             }
-            dp[day]=count;
+            if (!share.empty() && share[0].first == i - forget) {
+                share_cnt = (share_cnt - share[0].second + mod) % mod;
+                share.pop_front();
+            }
+            if (!share.empty()) {
+                know_cnt = (know_cnt + share_cnt) % mod;
+                know.emplace_back(i, share_cnt);
+            }
         }
-
-        int result=0;
-        for(int day=n-forget+1;day<=n;day++)
-        {
-            if(day>0)
-            result=(result+dp[day])%M;
-        }
-
-        return result;
+        return (know_cnt + share_cnt) % mod;
     }
+
+private:
+    static constexpr int mod = 1000000007;
 };
