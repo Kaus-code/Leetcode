@@ -259,6 +259,7 @@ DSA in C++ after 1st september 25
 | [0900-reordered-power-of-2](https://github.com/Kaus-code/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Kaus-code/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Kaus-code/Leetcode/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/Kaus-code/Leetcode/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Kaus-code/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Kaus-code/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kaus-code/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -296,6 +297,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Kaus-code/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/Kaus-code/Leetcode/tree/master/1642-water-bottles) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Kaus-code/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kaus-code/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
