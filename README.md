@@ -6,6 +6,7 @@ DSA in C++ after 1st september 25
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kaus-code/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Kaus-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Kaus-code/Leetcode/tree/master/0047-permutations-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -128,6 +129,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kaus-code/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Kaus-code/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kaus-code/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Kaus-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Kaus-code/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -194,6 +196,7 @@ DSA in C++ after 1st september 25
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kaus-code/Leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Kaus-code/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/Kaus-code/Leetcode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kaus-code/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
