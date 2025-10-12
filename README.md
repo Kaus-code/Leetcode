@@ -13,6 +13,7 @@ DSA in C++ after 1st september 25
 | [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Kaus-code/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Kaus-code/Leetcode/tree/master/0120-triangle) |
+| [0149-max-points-on-a-line](https://github.com/Kaus-code/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0198-house-robber](https://github.com/Kaus-code/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kaus-code/Leetcode/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/Kaus-code/Leetcode/tree/master/0312-burst-balloons) |
@@ -149,6 +150,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kaus-code/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/Kaus-code/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kaus-code/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0900-reordered-power-of-2](https://github.com/Kaus-code/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Kaus-code/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -274,6 +276,7 @@ DSA in C++ after 1st september 25
 | ------- |
 | [0062-unique-paths](https://github.com/Kaus-code/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kaus-code/Leetcode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Kaus-code/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kaus-code/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Kaus-code/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kaus-code/Leetcode/tree/master/0326-power-of-three) |
@@ -359,6 +362,7 @@ DSA in C++ after 1st september 25
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Kaus-code/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/Kaus-code/Leetcode/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kaus-code/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Queue
