@@ -17,6 +17,7 @@ DSA in C++ after 1st september 25
 | [0198-house-robber](https://github.com/Kaus-code/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kaus-code/Leetcode/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/Kaus-code/Leetcode/tree/master/0312-burst-balloons) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Kaus-code/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Kaus-code/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/Kaus-code/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -75,6 +76,7 @@ DSA in C++ after 1st september 25
 | [0198-house-robber](https://github.com/Kaus-code/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kaus-code/Leetcode/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/Kaus-code/Leetcode/tree/master/0312-burst-balloons) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0514-freedom-trail](https://github.com/Kaus-code/Leetcode/tree/master/0514-freedom-trail) |
 | [0826-soup-servings](https://github.com/Kaus-code/Leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kaus-code/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -121,6 +123,7 @@ DSA in C++ after 1st september 25
 ## Depth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0514-freedom-trail](https://github.com/Kaus-code/Leetcode/tree/master/0514-freedom-trail) |
 | [0695-max-area-of-island](https://github.com/Kaus-code/Leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Kaus-code/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -190,6 +193,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Kaus-code/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Kaus-code/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Kaus-code/Leetcode/tree/master/0695-max-area-of-island) |
@@ -297,6 +301,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kaus-code/Leetcode/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Kaus-code/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Search
 |  |
@@ -315,6 +320,7 @@ DSA in C++ after 1st september 25
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Kaus-code/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0514-freedom-trail](https://github.com/Kaus-code/Leetcode/tree/master/0514-freedom-trail) |
 | [0695-max-area-of-island](https://github.com/Kaus-code/Leetcode/tree/master/0695-max-area-of-island) |
@@ -382,4 +388,12 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Kaus-code/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
