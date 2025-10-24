@@ -174,6 +174,7 @@ DSA in C++ after 1st september 25
 | [1612-avoid-flood-in-the-city](https://github.com/Kaus-code/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/Kaus-code/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Kaus-code/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kaus-code/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaus-code/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Kaus-code/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3678-design-task-manager](https://github.com/Kaus-code/Leetcode/tree/master/3678-design-task-manager) |
@@ -266,6 +267,7 @@ DSA in C++ after 1st september 25
 | [0900-reordered-power-of-2](https://github.com/Kaus-code/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Kaus-code/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kaus-code/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kaus-code/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kaus-code/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Kaus-code/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Kaus-code/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -296,6 +298,7 @@ DSA in C++ after 1st september 25
 | [0022-generate-parentheses](https://github.com/Kaus-code/Leetcode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Kaus-code/Leetcode/tree/master/0047-permutations-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kaus-code/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kaus-code/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Math
 |  |
 | ------- |
@@ -312,6 +315,7 @@ DSA in C++ after 1st september 25
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Kaus-code/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Kaus-code/Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Kaus-code/Leetcode/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kaus-code/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Kaus-code/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Kaus-code/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kaus-code/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -387,6 +391,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Kaus-code/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Kaus-code/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaus-code/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Kaus-code/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kaus-code/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
