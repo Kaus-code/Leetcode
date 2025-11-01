@@ -14,6 +14,7 @@ DSA in C++ after 1st september 25
 | [0118-pascals-triangle](https://github.com/Kaus-code/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Kaus-code/Leetcode/tree/master/0120-triangle) |
 | [0149-max-points-on-a-line](https://github.com/Kaus-code/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0174-dungeon-game](https://github.com/Kaus-code/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Kaus-code/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kaus-code/Leetcode/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/Kaus-code/Leetcode/tree/master/0312-burst-balloons) |
@@ -84,6 +85,7 @@ DSA in C++ after 1st september 25
 | [0118-pascals-triangle](https://github.com/Kaus-code/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Kaus-code/Leetcode/tree/master/0120-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/Kaus-code/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0174-dungeon-game](https://github.com/Kaus-code/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Kaus-code/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kaus-code/Leetcode/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/Kaus-code/Leetcode/tree/master/0312-burst-balloons) |
@@ -217,6 +219,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/Kaus-code/Leetcode/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Kaus-code/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Kaus-code/Leetcode/tree/master/0498-diagonal-traverse) |
