@@ -61,6 +61,7 @@ DSA in C++ after 1st september 25
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Kaus-code/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Kaus-code/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kaus-code/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Kaus-code/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kaus-code/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Kaus-code/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Kaus-code/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -120,6 +121,7 @@ DSA in C++ after 1st september 25
 | [0794-swim-in-rising-water](https://github.com/Kaus-code/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Kaus-code/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kaus-code/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Kaus-code/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kaus-code/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Kaus-code/Leetcode/tree/master/3678-design-task-manager) |
 ## String
@@ -195,6 +197,7 @@ DSA in C++ after 1st september 25
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaus-code/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Kaus-code/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kaus-code/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Kaus-code/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kaus-code/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Kaus-code/Leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kaus-code/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -247,6 +250,7 @@ DSA in C++ after 1st september 25
 | [1813-maximum-erasure-value](https://github.com/Kaus-code/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Kaus-code/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Kaus-code/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Kaus-code/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kaus-code/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Kaus-code/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Greedy
