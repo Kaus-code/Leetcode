@@ -78,6 +78,7 @@ DSA in C++ after 1st september 25
 | [3790-fruits-into-baskets-ii](https://github.com/Kaus-code/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Kaus-code/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Kaus-code/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@ DSA in C++ after 1st september 25
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Kaus-code/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kaus-code/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Kaus-code/Leetcode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -161,6 +163,7 @@ DSA in C++ after 1st september 25
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kaus-code/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Kaus-code/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Kaus-code/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3863-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -205,6 +208,7 @@ DSA in C++ after 1st september 25
 | [3678-design-task-manager](https://github.com/Kaus-code/Leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kaus-code/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Kaus-code/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kaus-code/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Function
 |  |
@@ -391,12 +395,14 @@ DSA in C++ after 1st september 25
 | [0770-couples-holding-hands](https://github.com/Kaus-code/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/Kaus-code/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Kaus-code/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Kaus-code/Leetcode/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/Kaus-code/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/Kaus-code/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Combinatorics
 |  |
 | ------- |
@@ -420,6 +426,7 @@ DSA in C++ after 1st september 25
 | [0729-my-calendar-i](https://github.com/Kaus-code/Leetcode/tree/master/0729-my-calendar-i) |
 | [3678-design-task-manager](https://github.com/Kaus-code/Leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kaus-code/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3863-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -469,6 +476,7 @@ DSA in C++ after 1st september 25
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0770-couples-holding-hands](https://github.com/Kaus-code/Leetcode/tree/master/0770-couples-holding-hands) |
+| [3863-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
