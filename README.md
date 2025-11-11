@@ -21,6 +21,7 @@ DSA in C++ after 1st september 25
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/Kaus-code/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0407-trapping-rain-water-ii](https://github.com/Kaus-code/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0474-ones-and-zeroes](https://github.com/Kaus-code/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Kaus-code/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/Kaus-code/Leetcode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/Kaus-code/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -99,6 +100,7 @@ DSA in C++ after 1st september 25
 | [0312-burst-balloons](https://github.com/Kaus-code/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/Kaus-code/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0474-ones-and-zeroes](https://github.com/Kaus-code/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/Kaus-code/Leetcode/tree/master/0514-freedom-trail) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kaus-code/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0688-knight-probability-in-chessboard](https://github.com/Kaus-code/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
@@ -140,6 +142,7 @@ DSA in C++ after 1st september 25
 | [0022-generate-parentheses](https://github.com/Kaus-code/Leetcode/tree/master/0022-generate-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/Kaus-code/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kaus-code/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0474-ones-and-zeroes](https://github.com/Kaus-code/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/Kaus-code/Leetcode/tree/master/0514-freedom-trail) |
 | [1250-longest-common-subsequence](https://github.com/Kaus-code/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Kaus-code/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
