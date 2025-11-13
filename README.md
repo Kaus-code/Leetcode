@@ -157,6 +157,7 @@ DSA in C++ after 1st september 25
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Kaus-code/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kaus-code/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Kaus-code/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Kaus-code/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3797-design-spreadsheet](https://github.com/Kaus-code/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kaus-code/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
@@ -282,6 +283,7 @@ DSA in C++ after 1st september 25
 | [1612-avoid-flood-in-the-city](https://github.com/Kaus-code/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Kaus-code/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kaus-code/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Kaus-code/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Kaus-code/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kaus-code/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Kaus-code/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -459,6 +461,7 @@ DSA in C++ after 1st september 25
 | [2174-next-greater-numerically-balanced-number](https://github.com/Kaus-code/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaus-code/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Kaus-code/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Kaus-code/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kaus-code/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Geometry
 |  |
