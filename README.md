@@ -27,6 +27,7 @@ DSA in C++ after 1st september 25
 | [0611-valid-triangle-number](https://github.com/Kaus-code/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kaus-code/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Kaus-code/Leetcode/tree/master/0695-max-area-of-island) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Kaus-code/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0729-my-calendar-i](https://github.com/Kaus-code/Leetcode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Kaus-code/Leetcode/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/Kaus-code/Leetcode/tree/master/0794-swim-in-rising-water) |
