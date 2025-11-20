@@ -30,6 +30,7 @@ DSA in C++ after 1st september 25
 | [0717-1-bit-and-2-bit-characters](https://github.com/Kaus-code/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0729-my-calendar-i](https://github.com/Kaus-code/Leetcode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Kaus-code/Leetcode/tree/master/0739-daily-temperatures) |
+| [0759-set-intersection-size-at-least-two](https://github.com/Kaus-code/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/Kaus-code/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Kaus-code/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kaus-code/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -284,6 +285,7 @@ DSA in C++ after 1st september 25
 | [0011-container-with-most-water](https://github.com/Kaus-code/Leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Kaus-code/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kaus-code/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0759-set-intersection-size-at-least-two](https://github.com/Kaus-code/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0770-couples-holding-hands](https://github.com/Kaus-code/Leetcode/tree/master/0770-couples-holding-hands) |
 | [1448-maximum-69-number](https://github.com/Kaus-code/Leetcode/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Kaus-code/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -347,6 +349,7 @@ DSA in C++ after 1st september 25
 | [0506-relative-ranks](https://github.com/Kaus-code/Leetcode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/Kaus-code/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kaus-code/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0759-set-intersection-size-at-least-two](https://github.com/Kaus-code/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/Kaus-code/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kaus-code/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaus-code/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
