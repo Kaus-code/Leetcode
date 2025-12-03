@@ -82,6 +82,7 @@ DSA in C++ after 1st september 25
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Kaus-code/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Kaus-code/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Kaus-code/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Kaus-code/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Kaus-code/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Kaus-code/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Kaus-code/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -234,6 +235,7 @@ DSA in C++ after 1st september 25
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Kaus-code/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3607-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kaus-code/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Kaus-code/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/Kaus-code/Leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kaus-code/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Kaus-code/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -411,6 +413,7 @@ DSA in C++ after 1st september 25
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kaus-code/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/Kaus-code/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kaus-code/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Kaus-code/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Kaus-code/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Kaus-code/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
@@ -509,6 +512,7 @@ DSA in C++ after 1st september 25
 | [0149-max-points-on-a-line](https://github.com/Kaus-code/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/Kaus-code/Leetcode/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kaus-code/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Kaus-code/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Queue
 |  |
 | ------- |
