@@ -39,6 +39,7 @@ DSA in C++ after 1st september 25
 | [0967-minimum-falling-path-sum](https://github.com/Kaus-code/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Kaus-code/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Kaus-code/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Kaus-code/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kaus-code/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kaus-code/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kaus-code/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -117,6 +118,7 @@ DSA in C++ after 1st september 25
 | [0967-minimum-falling-path-sum](https://github.com/Kaus-code/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Kaus-code/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1250-longest-common-subsequence](https://github.com/Kaus-code/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Kaus-code/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kaus-code/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Kaus-code/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaus-code/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -297,6 +299,7 @@ DSA in C++ after 1st september 25
 | [0646-maximum-length-of-pair-chain](https://github.com/Kaus-code/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Kaus-code/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0770-couples-holding-hands](https://github.com/Kaus-code/Leetcode/tree/master/0770-couples-holding-hands) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Kaus-code/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Kaus-code/Leetcode/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Kaus-code/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Kaus-code/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -367,6 +370,7 @@ DSA in C++ after 1st september 25
 | [0646-maximum-length-of-pair-chain](https://github.com/Kaus-code/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Kaus-code/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/Kaus-code/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Kaus-code/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kaus-code/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaus-code/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kaus-code/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
