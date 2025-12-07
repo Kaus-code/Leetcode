@@ -412,6 +412,7 @@ DSA in C++ after 1st september 25
 | [0900-reordered-power-of-2](https://github.com/Kaus-code/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Kaus-code/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Kaus-code/Leetcode/tree/master/1448-maximum-69-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Kaus-code/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Kaus-code/Leetcode/tree/master/1642-water-bottles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Kaus-code/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Kaus-code/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
