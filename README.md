@@ -9,6 +9,7 @@ DSA in C++ after 1st september 25
 | [0011-container-with-most-water](https://github.com/Kaus-code/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Kaus-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Kaus-code/Leetcode/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/Kaus-code/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Kaus-code/Leetcode/tree/master/0118-pascals-triangle) |
@@ -411,6 +412,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kaus-code/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Kaus-code/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Kaus-code/Leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Kaus-code/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kaus-code/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
