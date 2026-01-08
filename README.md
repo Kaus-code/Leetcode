@@ -46,6 +46,7 @@ DSA in C++ after 1st september 25
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kaus-code/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kaus-code/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kaus-code/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Kaus-code/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Kaus-code/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/Kaus-code/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Kaus-code/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -127,6 +128,7 @@ DSA in C++ after 1st september 25
 | [1250-longest-common-subsequence](https://github.com/Kaus-code/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Kaus-code/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kaus-code/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Kaus-code/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Kaus-code/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaus-code/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Kaus-code/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
