@@ -121,6 +121,7 @@ DSA in C++ after 1st september 25
 | [0514-freedom-trail](https://github.com/Kaus-code/Leetcode/tree/master/0514-freedom-trail) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kaus-code/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0688-knight-probability-in-chessboard](https://github.com/Kaus-code/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kaus-code/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0826-soup-servings](https://github.com/Kaus-code/Leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kaus-code/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Kaus-code/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -166,6 +167,7 @@ DSA in C++ after 1st september 25
 | [0166-fraction-to-recurring-decimal](https://github.com/Kaus-code/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/Kaus-code/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/Kaus-code/Leetcode/tree/master/0514-freedom-trail) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kaus-code/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1250-longest-common-subsequence](https://github.com/Kaus-code/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Kaus-code/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
