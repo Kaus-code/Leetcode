@@ -270,6 +270,7 @@ DSA in C++ after 1st september 25
 | [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Kaus-code/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Kaus-code/Leetcode/tree/master/0901-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Kaus-code/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kaus-code/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/Kaus-code/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -282,6 +283,7 @@ DSA in C++ after 1st september 25
 | [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Kaus-code/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Kaus-code/Leetcode/tree/master/0901-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Kaus-code/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Kaus-code/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
@@ -559,6 +561,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Kaus-code/Leetcode/tree/master/0729-my-calendar-i) |
+| [0901-online-stock-span](https://github.com/Kaus-code/Leetcode/tree/master/0901-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/Kaus-code/Leetcode/tree/master/2169-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/Kaus-code/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Kaus-code/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -599,4 +602,8 @@ DSA in C++ after 1st september 25
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Kaus-code/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
