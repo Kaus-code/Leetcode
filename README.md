@@ -81,6 +81,7 @@ DSA in C++ after 1st september 25
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Kaus-code/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Kaus-code/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kaus-code/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kaus-code/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kaus-code/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Kaus-code/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Kaus-code/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -157,6 +158,7 @@ DSA in C++ after 1st september 25
 | [0794-swim-in-rising-water](https://github.com/Kaus-code/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Kaus-code/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kaus-code/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kaus-code/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Kaus-code/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3607-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kaus-code/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -219,6 +221,7 @@ DSA in C++ after 1st september 25
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kaus-code/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Kaus-code/Leetcode/tree/master/0141-linked-list-cycle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kaus-code/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kaus-code/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +256,7 @@ DSA in C++ after 1st september 25
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Kaus-code/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Kaus-code/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kaus-code/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kaus-code/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/Kaus-code/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Kaus-code/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3607-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3607-power-grid-maintenance) |
@@ -523,12 +527,14 @@ DSA in C++ after 1st september 25
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kaus-code/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Kaus-code/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Kaus-code/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kaus-code/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Kaus-code/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kaus-code/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Kaus-code/Leetcode/tree/master/0729-my-calendar-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kaus-code/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3607-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3678-design-task-manager](https://github.com/Kaus-code/Leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kaus-code/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -623,4 +629,8 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Kaus-code/Leetcode/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kaus-code/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
