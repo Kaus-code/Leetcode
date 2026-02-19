@@ -181,6 +181,7 @@ DSA in C++ after 1st september 25
 | [0166-fraction-to-recurring-decimal](https://github.com/Kaus-code/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/Kaus-code/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/Kaus-code/Leetcode/tree/master/0514-freedom-trail) |
+| [0696-count-binary-substrings](https://github.com/Kaus-code/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kaus-code/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1250-longest-common-subsequence](https://github.com/Kaus-code/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -239,6 +240,7 @@ DSA in C++ after 1st september 25
 | [0042-trapping-rain-water](https://github.com/Kaus-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Kaus-code/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0611-valid-triangle-number](https://github.com/Kaus-code/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/Kaus-code/Leetcode/tree/master/0696-count-binary-substrings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Kaus-code/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
