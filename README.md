@@ -49,6 +49,7 @@ DSA in C++ after 1st september 25
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kaus-code/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kaus-code/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Kaus-code/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kaus-code/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Kaus-code/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/Kaus-code/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Kaus-code/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -319,6 +320,7 @@ DSA in C++ after 1st september 25
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Kaus-code/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kaus-code/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kaus-code/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kaus-code/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Kaus-code/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kaus-code/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Kaus-code/Leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -351,6 +353,7 @@ DSA in C++ after 1st september 25
 | [0770-couples-holding-hands](https://github.com/Kaus-code/Leetcode/tree/master/0770-couples-holding-hands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Kaus-code/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Kaus-code/Leetcode/tree/master/1448-maximum-69-number) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kaus-code/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/Kaus-code/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Kaus-code/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kaus-code/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
