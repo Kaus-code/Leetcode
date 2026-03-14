@@ -192,6 +192,7 @@ DSA in C++ after 1st september 25
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kaus-code/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kaus-code/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kaus-code/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kaus-code/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Kaus-code/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Kaus-code/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Kaus-code/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -458,6 +459,7 @@ DSA in C++ after 1st september 25
 | [0022-generate-parentheses](https://github.com/Kaus-code/Leetcode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Kaus-code/Leetcode/tree/master/0047-permutations-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kaus-code/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Kaus-code/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kaus-code/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Kaus-code/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
