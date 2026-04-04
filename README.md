@@ -74,6 +74,7 @@ DSA in C++ after 1st september 25
 | [2529-range-product-queries-of-powers](https://github.com/Kaus-code/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2573-find-the-string-with-lcp](https://github.com/Kaus-code/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/Kaus-code/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2965-find-missing-and-repeated-values](https://github.com/Kaus-code/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Kaus-code/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kaus-code/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Kaus-code/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -275,6 +276,7 @@ DSA in C++ after 1st september 25
 | [2079-delete-duplicate-folders-in-system](https://github.com/Kaus-code/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2169-simple-bank-system](https://github.com/Kaus-code/Leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Kaus-code/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Kaus-code/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Kaus-code/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kaus-code/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Kaus-code/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -338,6 +340,7 @@ DSA in C++ after 1st september 25
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kaus-code/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Kaus-code/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/Kaus-code/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2965-find-missing-and-repeated-values](https://github.com/Kaus-code/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Kaus-code/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Kaus-code/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Kaus-code/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -493,6 +496,7 @@ DSA in C++ after 1st september 25
 | [2174-next-greater-numerically-balanced-number](https://github.com/Kaus-code/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Kaus-code/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Kaus-code/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Kaus-code/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Kaus-code/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kaus-code/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/Kaus-code/Leetcode/tree/master/3336-water-bottles-ii) |
