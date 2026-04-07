@@ -1,45 +1,50 @@
 class Solution {
 public:
     int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
-        int dir = 0;
-        map<pair<int,int>, bool> mp;
-        for(auto it : obstacles){
-            mp[{it[0], it[1]}] = true;
-        }
-        int x = 0, y = 0;
-        int ans = 0;
-        for(auto it : commands){
-            if(it < 0){
-                if(it == -1) 
-                    dir = (dir + 1) % 4;        
-                else 
-                    dir = (dir - 1 + 4) % 4;    
-            }
-            else{
-                if(dir == 0){
-                    int maxi = y + it;
-                    while(y < maxi && !mp[{x, y+1}])
-                        y++;
-                }
-                else if(dir == 1){
-                    int maxi = x + it;
-                    while(x < maxi && !mp[{x+1, y}])
-                        x++;
-                }
-                else if(dir == 2){
-                    int mini = y - it;
-                    while(y > mini && !mp[{x, y-1}])
-                        y--;
-                }
-                else if(dir == 3){
-                    int mini = x - it;
+        // {N,E,S,W} 
+        vector<vector<int>> direction ={{0,1},{1,0},{0,-1},{-1,0}};
+        int dir=0;
 
-                    while(x > mini && !mp[{x-1, y}])
-                        x--;
+        int x=0,y=0;
+        int maxdist=0;
+
+        set<pair<int,int>> obs;
+
+        for(auto &o:obstacles)
+        {
+            obs.insert({o[0],o[1]});
+        }
+
+        for(int cmd:commands)
+        {
+            if(cmd==-2)
+            {
+                //turn left
+                dir=(dir+3)%4;
+            }
+            else if(cmd==-1)
+            {
+                //turn right
+                dir=(dir+1)%4;
+            }
+            else
+            {
+                //move fwd cmd steps
+                for(int i=0;i<cmd;i++)
+                {
+                    int nx=x+ direction[dir][0];
+                    int ny=y +direction[dir][1];
+
+                    if(obs.count({nx,ny}))
+                        break;
+
+                   x=nx;
+                   y=ny;
+                   maxdist=max(maxdist,x*x+y*y);
                 }
-                ans = max(ans, x*x + y*y);
             }
         }
-        return ans;
+
+        return maxdist;
     }
 };
