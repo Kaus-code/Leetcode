@@ -8,6 +8,7 @@ DSA in C++ after 1st september 25
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kaus-code/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Kaus-code/Leetcode/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/Kaus-code/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Kaus-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Kaus-code/Leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Kaus-code/Leetcode/tree/master/0053-maximum-subarray) |
@@ -471,6 +472,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kaus-code/Leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Kaus-code/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Kaus-code/Leetcode/tree/master/0047-permutations-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kaus-code/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
