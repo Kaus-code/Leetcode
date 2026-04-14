@@ -11,6 +11,7 @@ DSA in C++ after 1st september 25
 | [0039-combination-sum](https://github.com/Kaus-code/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Kaus-code/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Kaus-code/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Kaus-code/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Kaus-code/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Kaus-code/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -474,6 +475,7 @@ DSA in C++ after 1st september 25
 | [0022-generate-parentheses](https://github.com/Kaus-code/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Kaus-code/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Kaus-code/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Kaus-code/Leetcode/tree/master/0051-n-queens) |
 | [0756-pyramid-transition-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kaus-code/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Kaus-code/Leetcode/tree/master/1980-find-unique-binary-string) |
