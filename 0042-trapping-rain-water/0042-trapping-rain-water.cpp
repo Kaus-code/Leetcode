@@ -1,27 +1,21 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-       
         int n = height.size();
-        if (n == 0) return 0;
-
-        int left = 0, right = n - 1;
-        int left_max = 0, right_max = 0;
-        int water_trapped = 0;
-
-        while (left < right) {
-            if (height[left] < height[right]) {
-                left_max = max(left_max, height[left]);
-                water_trapped += left_max - height[left];
-                left++;
-            } else {
-                right_max = max(right_max, height[right]);
-                water_trapped += right_max - height[right];
-                right--;
+        stack<int> st; 
+        int totalWater = 0;
+        for (int i = 0; i < n; i++) {
+            while (!st.empty() && height[i] > height[st.top()]) {
+                int middleIndex = st.top();
+                st.pop();
+                if (st.empty()) break;
+                int leftIndex = st.top();
+                int boundedHeight = min(height[leftIndex], height[i]) - height[middleIndex];
+                int width = i - leftIndex - 1;
+                totalWater += boundedHeight * width;
             }
+            st.push(i);
         }
-
-        return water_trapped;
-      
+        return totalWater;
     }
 };
