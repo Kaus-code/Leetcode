@@ -22,6 +22,7 @@ DSA in C++ after 1st september 25
 | [0174-dungeon-game](https://github.com/Kaus-code/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Kaus-code/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kaus-code/Leetcode/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/Kaus-code/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/Kaus-code/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Kaus-code/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -174,6 +175,7 @@ DSA in C++ after 1st september 25
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Kaus-code/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Kaus-code/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Kaus-code/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/Kaus-code/Leetcode/tree/master/0506-relative-ranks) |
@@ -363,6 +365,7 @@ DSA in C++ after 1st september 25
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Kaus-code/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/Kaus-code/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Kaus-code/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kaus-code/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -630,6 +633,7 @@ DSA in C++ after 1st september 25
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Kaus-code/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Kaus-code/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Kaus-code/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Number Theory
@@ -677,6 +681,7 @@ DSA in C++ after 1st september 25
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Kaus-code/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Kaus-code/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Binary Tree
 |  |
