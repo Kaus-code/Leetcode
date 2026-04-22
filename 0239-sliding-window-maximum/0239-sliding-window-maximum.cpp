@@ -10,7 +10,6 @@ public:
                 dq.pop_back();
             }
             dq.push_back(r);
-       
             if(dq.front()<l){
                 dq.pop_front();
             }
