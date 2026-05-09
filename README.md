@@ -431,6 +431,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaus-code/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/Kaus-code/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -708,6 +709,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaus-code/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/Kaus-code/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -738,4 +740,8 @@ DSA in C++ after 1st september 25
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Kaus-code/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Kaus-code/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
