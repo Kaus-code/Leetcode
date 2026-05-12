@@ -16,6 +16,7 @@ DSA in C++ after 1st september 25
 | [0066-plus-one](https://github.com/Kaus-code/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kaus-code/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaus-code/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Kaus-code/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Kaus-code/Leetcode/tree/master/0120-triangle) |
 | [0149-max-points-on-a-line](https://github.com/Kaus-code/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -281,6 +282,7 @@ DSA in C++ after 1st september 25
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaus-code/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Kaus-code/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Kaus-code/Leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Kaus-code/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -436,6 +438,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaus-code/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaus-code/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Kaus-code/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kaus-code/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -697,6 +700,7 @@ DSA in C++ after 1st september 25
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kaus-code/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Kaus-code/Leetcode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaus-code/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaus-code/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Kaus-code/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -717,6 +721,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaus-code/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kaus-code/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Kaus-code/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kaus-code/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
