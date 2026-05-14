@@ -22,6 +22,7 @@ DSA in C++ after 1st september 25
 | [0149-max-points-on-a-line](https://github.com/Kaus-code/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0174-dungeon-game](https://github.com/Kaus-code/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Kaus-code/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Kaus-code/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Kaus-code/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaus-code/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kaus-code/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -237,6 +238,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaus-code/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/Kaus-code/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0514-freedom-trail](https://github.com/Kaus-code/Leetcode/tree/master/0514-freedom-trail) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -360,6 +362,7 @@ DSA in C++ after 1st september 25
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Kaus-code/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Kaus-code/Leetcode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/Kaus-code/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Kaus-code/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Kaus-code/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -583,6 +586,7 @@ DSA in C++ after 1st september 25
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kaus-code/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kaus-code/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Kaus-code/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0514-freedom-trail](https://github.com/Kaus-code/Leetcode/tree/master/0514-freedom-trail) |
@@ -756,6 +760,7 @@ DSA in C++ after 1st september 25
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kaus-code/Leetcode/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Kaus-code/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Binary Search Tree
