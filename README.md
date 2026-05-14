@@ -49,6 +49,7 @@ DSA in C++ after 1st september 25
 | [0940-fruit-into-baskets](https://github.com/Kaus-code/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Kaus-code/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Kaus-code/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Kaus-code/Leetcode/tree/master/0994-rotting-oranges) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Kaus-code/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Kaus-code/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1200-minimum-absolute-difference](https://github.com/Kaus-code/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -365,6 +366,7 @@ DSA in C++ after 1st september 25
 | [0695-max-area-of-island](https://github.com/Kaus-code/Leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Kaus-code/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/Kaus-code/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Kaus-code/Leetcode/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Kaus-code/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kaus-code/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -588,6 +590,7 @@ DSA in C++ after 1st september 25
 | [0695-max-area-of-island](https://github.com/Kaus-code/Leetcode/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/Kaus-code/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/Kaus-code/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/Kaus-code/Leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Kaus-code/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
