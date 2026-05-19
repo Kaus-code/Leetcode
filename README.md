@@ -251,6 +251,7 @@ DSA in C++ after 1st september 25
 | [0787-cheapest-flights-within-k-stops](https://github.com/Kaus-code/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/Kaus-code/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/Kaus-code/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kaus-code/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -760,6 +761,7 @@ DSA in C++ after 1st september 25
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Kaus-code/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/Kaus-code/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Kaus-code/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -778,4 +780,8 @@ DSA in C++ after 1st september 25
 | [0450-delete-node-in-a-bst](https://github.com/Kaus-code/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kaus-code/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kaus-code/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Kaus-code/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
