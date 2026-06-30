@@ -217,6 +217,7 @@ DSA in C++ after 1st september 25
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kaus-code/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Kaus-code/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kaus-code/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kaus-code/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kaus-code/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Kaus-code/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Kaus-code/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -307,6 +308,7 @@ DSA in C++ after 1st september 25
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Kaus-code/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Kaus-code/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kaus-code/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kaus-code/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1612-avoid-flood-in-the-city](https://github.com/Kaus-code/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/Kaus-code/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Kaus-code/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -399,6 +401,7 @@ DSA in C++ after 1st september 25
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kaus-code/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/Kaus-code/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kaus-code/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Kaus-code/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kaus-code/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Kaus-code/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
