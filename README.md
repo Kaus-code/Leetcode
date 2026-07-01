@@ -87,6 +87,7 @@ DSA in C++ after 1st september 25
 | [2529-range-product-queries-of-powers](https://github.com/Kaus-code/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2573-find-the-string-with-lcp](https://github.com/Kaus-code/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/Kaus-code/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kaus-code/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Kaus-code/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kaus-code/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -192,6 +193,7 @@ DSA in C++ after 1st september 25
 | [0794-swim-in-rising-water](https://github.com/Kaus-code/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Kaus-code/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kaus-code/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Kaus-code/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Kaus-code/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3607-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3607-power-grid-maintenance) |
@@ -389,6 +391,7 @@ DSA in C++ after 1st september 25
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Kaus-code/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Kaus-code/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/Kaus-code/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kaus-code/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Kaus-code/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Kaus-code/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -587,6 +590,7 @@ DSA in C++ after 1st september 25
 | [1612-avoid-flood-in-the-city](https://github.com/Kaus-code/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Kaus-code/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Kaus-code/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Kaus-code/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3454-separate-squares-ii](https://github.com/Kaus-code/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Kaus-code/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -614,6 +618,7 @@ DSA in C++ after 1st september 25
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Kaus-code/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Kaus-code/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3607-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3863-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -783,6 +788,7 @@ DSA in C++ after 1st september 25
 | [0200-number-of-islands](https://github.com/Kaus-code/Leetcode/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Kaus-code/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
