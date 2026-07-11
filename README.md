@@ -264,6 +264,7 @@ DSA in C++ after 1st september 25
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Kaus-code/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Kaus-code/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kaus-code/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Kaus-code/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Kaus-code/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3607-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3863-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -620,6 +621,7 @@ DSA in C++ after 1st september 25
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Kaus-code/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Kaus-code/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kaus-code/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Kaus-code/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3607-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3863-power-grid-maintenance](https://github.com/Kaus-code/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -779,6 +781,7 @@ DSA in C++ after 1st september 25
 | [0787-cheapest-flights-within-k-stops](https://github.com/Kaus-code/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/Kaus-code/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kaus-code/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Kaus-code/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Kaus-code/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -792,6 +795,7 @@ DSA in C++ after 1st september 25
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kaus-code/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/Kaus-code/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2685-count-the-number-of-complete-components](https://github.com/Kaus-code/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kaus-code/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search Tree
 |  |
